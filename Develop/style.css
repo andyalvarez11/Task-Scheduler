@@ -18,6 +18,7 @@ textarea {
 
 .time-block {
   border-radius: 15px;
+  margin-top: 10px;
 }
 
 .row {
@@ -31,12 +32,12 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #f57474;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #efff61;
   color: white;
 }
 
